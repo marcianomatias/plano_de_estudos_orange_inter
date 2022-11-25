@@ -4,8 +4,7 @@
 ## Criando meu plano de estudos
 
 `` console.log("Hello World") ``
-🌟
-:top: Obetivos:
+🌟 Obetivos:
 - Aprender a programar em HTML
 - Aprender estilizaçãço com CSS3
 - Aprender JS
